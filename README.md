@@ -1,0 +1,14 @@
+# Traffic-Sign-Classify-Application
+AI Machine Learning Application
+
+01. This python project runs with the help of tensorflow, keras, sklearn, matplotlib, pandas and pil packages.
+   
+02. Your python environment should contain tensorflow, keras, sklearn, matplotlib, pandas and pil packages pre-installed. 
+    Otherwise you must download those relevant packages using pip command.
+
+03. To setup this project first you must open python IDE with python 3.6 version.
+
+04. If you are using a latest version or a previous version, you need to change the packages accordingly.
+    for example, in python 3.7 version you need to use a package more than tensorflow 2.2 for this software to work.
+
+05. finally,Press F5, run the application of python shell.
