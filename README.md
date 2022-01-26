@@ -1,7 +1,7 @@
 # Traffic-Sign-Classify-Application
 AI Machine Learning Application
 
-01. This python project runs with the help of tensorflow, keras, sklearn, matplotlib, pandas and pil packages.
+01. This python project runs with the help of tensorflow, keras, sklearn, matplotlib, pandas and pil packages and backend developed from Django.
    
 02. Your python environment should contain tensorflow, keras, sklearn, matplotlib, pandas and pil packages pre-installed. 
     Otherwise you must download those relevant packages using pip command.
