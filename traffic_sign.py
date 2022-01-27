@@ -6,6 +6,8 @@ import tensorflow as tf
 from PIL import Image
 import os
 from sklearn.model_selection import train_test_split
+from django.db import models
+from django.contrib.auth.models import AbstractBaseUser
 from keras.utils import to_categorical
 from keras.models import Sequential, load_model
 from keras.layers import Conv2D, MaxPool2D, Dense, Flatten, Dropout
